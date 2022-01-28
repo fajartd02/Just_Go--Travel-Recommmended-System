@@ -1,4 +1,7 @@
-# Disini kita menggunakan metode:
+# SEBENTAR ADA PERBAIKAN
+
+
+#Disini kita menggunakan metode:
 
 ### Jaccard Similarity
 Untuk mencocokan dengan similarity kita
