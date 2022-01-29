@@ -67,12 +67,12 @@
         android:ems="10"
         android:fontFamily="@font/montserrat"
         android:inputType="textPersonName"
+        android:text="08:00 A.M. California"
         android:textColor="@color/colorWhite"
         android:textColorHint="@color/colorWhiteGrey"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView3"
-        tools:text="08:00 A.M. California" />
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
 
     <TextView
         android:id="@+id/textView4"
@@ -99,12 +99,12 @@
         android:drawableRight="@drawable/ic_baseline_keyboard_arrow_down_24"
         android:ems="10"
         android:inputType="text"
+        android:text="09.00 A.M. Hawaii"
         android:textColor="@color/colorWhite"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView4"
-        tools:text="09.00 A.M. Hawaii" />
+        app:layout_constraintTop_toBottomOf="@+id/textView4" />
 
     <ImageView
         android:id="@+id/imageView3"
@@ -140,11 +140,11 @@
         android:ems="10"
         android:fontFamily="@font/montserrat"
         android:inputType="textPersonName"
+        android:text="08:00                A.M. Santorini"
         android:textColor="@color/colorWhite"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView5"
-        tools:text="08:00                A.M. Santorini" />
+        app:layout_constraintTop_toBottomOf="@+id/textView5" />
 
     <EditText
         android:id="@+id/editTextTextPersonName6"
@@ -158,12 +158,12 @@
         android:ems="10"
         android:fontFamily="@font/montserrat"
         android:inputType="textPersonName"
+        android:text="09:00                A.M. Rest Area"
         android:textColor="@color/colorWhite"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName3"
-        tools:text="09:00                A.M. Rest Area" />
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName3" />
 
     <EditText
         android:id="@+id/editTextTextPersonName7"
@@ -177,12 +177,12 @@
         android:ems="10"
         android:fontFamily="@font/montserrat"
         android:inputType="textPersonName"
+        android:text="10.00                 A.M. Aqualand"
         android:textColor="@color/colorWhite"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName6"
-        tools:text="10.00                 A.M. Aqualand" />
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName6" />
 
     <EditText
         android:id="@+id/editTextTextPersonName8"
@@ -215,11 +215,11 @@
         android:ems="10"
         android:fontFamily="@font/montserrat"
         android:inputType="textPersonName"
+        android:text="06.00                P.M. Hotel Santorini"
         android:textColor="@color/colorWhite"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName8"
-        tools:text="06.00                P.M. Hotel Santorini" />
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName8" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

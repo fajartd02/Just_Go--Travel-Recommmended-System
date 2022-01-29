@@ -115,11 +115,10 @@
         android:layout_marginStart="24dp"
         android:layout_marginTop="30dp"
         android:fontFamily="@font/montserrat"
-        android:text="TextView"
+        android:text="@string/now_trending"
         android:textColor="@color/colorWhite"
         android:textSize="14sp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView8"
-        tools:text="NOW TRENDING" />
+        app:layout_constraintTop_toBottomOf="@+id/textView8" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
