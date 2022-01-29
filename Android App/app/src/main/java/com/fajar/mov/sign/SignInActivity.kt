@@ -30,6 +30,7 @@ class SignInActivity : AppCompatActivity() {
         val btn_secondary = findViewById<Button>(R.id.btn_secondary)
 
         btn_primary.setOnClickListener {
+            finishAffinity()
             startActivity(Intent(this@SignInActivity, HomeActivity::class.java))
         }
 

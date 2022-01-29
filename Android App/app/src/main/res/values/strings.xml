@@ -37,4 +37,11 @@
     <string name="my_history">My History</string>
     <string name="masuk_akun">Masuk Akun</string>
     <string name="akun_baru">Daftar Akun Baru</string>
+    <string name="smart_itinerary">Smart Itinerary</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="room">Rooms</string>
+    <string name="money">Money</string>
+    <string name="theme">Theme</string>
+    <string name="booking">Booking</string>
 </resources>
