@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorBlue"
-    tools:context=".onboarding.OnboardingOneActivity">
+    tools:context=".sign.SignUpActivity">
 
     <Button
         android:id="@+id/button4"
@@ -59,7 +59,6 @@
         android:backgroundTint="@color/colorWhite"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="fajarhamka21"
         android:textColor="@color/colorWhite"
         android:textColorHint="@color/colorWhiteGrey"
         app:layout_constraintEnd_toEndOf="parent"
@@ -88,7 +87,6 @@
         android:backgroundTint="@color/colorWhite"
         android:ems="10"
         android:inputType="text|textPassword"
-        android:text="password"
         android:textColor="@color/colorWhite"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -126,7 +124,6 @@
         android:backgroundTint="@color/colorWhite"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Fajar M. Hamka"
         android:textColor="@color/colorWhite"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -152,7 +149,7 @@
         android:backgroundTint="@color/colorWhite"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="fajarmh2@gmail.com"
+
         android:textColor="@color/colorWhite"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

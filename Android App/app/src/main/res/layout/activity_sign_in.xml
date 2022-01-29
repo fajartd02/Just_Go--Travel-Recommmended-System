@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorBlue"
-    tools:context=".onboarding.OnboardingOneActivity">
+    tools:context=".sign.SignInActivity">
 
     <Button
         android:id="@+id/btn_secondary"
@@ -22,7 +22,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
-        android:id="@+id/button_sign"
+        android:id="@+id/btn_primary"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -44,7 +44,7 @@
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/logo_mov" />
+        app:srcCompat="@drawable/ic_logo_bom" />
 
     <TextView
         android:id="@+id/textView"
@@ -83,7 +83,6 @@
         android:backgroundTint="@color/colorWhite"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="fajarhamka21"
         android:textColor="@color/colorWhite"
         android:textColorHint="@color/colorWhiteGrey"
         app:layout_constraintEnd_toEndOf="parent"
@@ -112,7 +111,6 @@
         android:backgroundTint="@color/colorWhite"
         android:ems="10"
         android:inputType="text|textPassword"
-        android:text="password"
         android:textColor="@color/colorWhite"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"

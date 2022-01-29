@@ -4,7 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
-import com.fajar.mov.onboarding.OnboardingOneActivity
+import com.fajar.mov.onboarding.OnboardingTwoActivity
 
 class SplashScreenActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -13,7 +13,7 @@ class SplashScreenActivity : AppCompatActivity() {
 
         var handler = Handler()
         handler.postDelayed({
-            var intent = Intent(this@SplashScreenActivity, OnboardingOneActivity::class.java)
+            var intent = Intent(this@SplashScreenActivity, OnboardingTwoActivity::class.java)
             startActivity(intent)
             finish()
         }, 5000)
