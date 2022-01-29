@@ -10,7 +10,7 @@ class ItineraryActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_itinerary)
 
-        var button = findViewById<Button>(r.id.button4)
+        var button = findViewById<Button>(R.id.button4)
 
         button.setOnClickListener {
             startActivity(Intent(this@ItineraryActivity, ResultActivity::class.java))
