@@ -16,7 +16,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MOV.noActionBar">
         <activity
-            android:name=".DetailActivity"
+            android:name=".ResultActivity"
+            android:exported="true" />
+        <activity
+            android:name=".ItineraryActivity"
             android:exported="true" />
         <activity
             android:name=".HomeActivity"

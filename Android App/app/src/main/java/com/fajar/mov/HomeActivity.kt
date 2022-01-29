@@ -13,7 +13,7 @@ class HomeActivity : AppCompatActivity() {
         var ticket = findViewById<ImageView>(R.id.tiket_menu)
 
         ticket.setOnClickListener {
-            startActivity(Intent(this@HomeActivity, DetailActivity::class.java))
+            startActivity(Intent(this@HomeActivity, ItineraryActivity::class.java))
         }
 
     }
