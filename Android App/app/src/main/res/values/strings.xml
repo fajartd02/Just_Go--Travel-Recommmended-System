@@ -35,4 +35,6 @@
     <string name="edit_profile">Edit Profile</string>
     <string name="my_wallet">My Wallet</string>
     <string name="my_history">My History</string>
+    <string name="masuk_akun">Masuk Akun</string>
+    <string name="akun_baru">Daftar Akun Baru</string>
 </resources>

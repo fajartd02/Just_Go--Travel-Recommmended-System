@@ -16,7 +16,7 @@ class SignInActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_sign_in)
-        va
+
 
 //        val button_sign = findViewById<Button>(R.id.button_sign)
 //        button_sign.setOnClickListener {
