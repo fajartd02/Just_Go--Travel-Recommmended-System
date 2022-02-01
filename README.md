@@ -58,10 +58,10 @@ To run Android App, this is the requirement:
 ![Itinerary](Images/Itinerary.png)
 
 ## Result of Itinerary
-![result](Images/Result_itinerary.png)
+![result](Images/Result_Itinerary.png)
 
 ## Detail Vacation (Additional Feature)
-![Detail](Images/Detail_liburan.png)
+![Detail](Images/Detail_Liburan.png)
 
 ## Profile
 ![Profile](Images/Profile.png)
