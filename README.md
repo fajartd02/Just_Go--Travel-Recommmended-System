@@ -31,40 +31,40 @@ To run Android App, this is the requirement:
 # Result
 
 ## Splash Screen
-![splashscreen](images/Splash_screen.png)
+![splashscreen](Images/Splash_screen.png)
 
 ## OB 1
-![OB1](images/OB2.png)
+![OB1](Images/OB2.png)
 
 ## OB 2
-![OB2](images/OB3.png)
+![OB2](Images/OB3.png)
 
 ## Sign In
-![SignIn](images/Sign_in_screen.png)
+![SignIn](Images/Sign_in_screen.png)
 
 ## Sign Up
-![SignUp](images/Sign_up_screen.png)
+![SignUp](Images/Sign_up_screen.png)
 
 ## Sign Up Photo Screen
-![photoscreen](images/Sign_up_photo_screen.png)
+![photoscreen](Images/Sign_up_photo_screen.png)
 
 ## Sign Up Photo Screen Exist
-![photoscreenexist](images/Sign_up_photo_exist.png)
+![photoscreenexist](Images/Sign_up_photo_exist.png)
 
 ## Homescreen
-![Homescreen](images/Homescreen.png)
+![Homescreen](Images/Homescreen.png)
 
 ## Smart Itinerary
-![Itinerary](images/Itinerary.png)
+![Itinerary](Images/Itinerary.png)
 
 ## Result of Itinerary
-![result](images/Result_itinerary.png)
+![result](Images/Result_itinerary.png)
 
 ## Detail Vacation (Additional Feature)
-![Detail](images/Detail_liburan.png)
+![Detail](Images/Detail_liburan.png)
 
 ## Profile
-![Profile](images/Profile.png)
+![Profile](Images/Profile.png)
 
 ## Top Up
-![topUp](images/Top_up.png)
+![topUp](Images/Top_up.png)
